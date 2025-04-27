@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <!-- Example existing user: username="testuser", password="hello" encrypted in base64 -->
+  <User username="testuser" password="aGVsbG8=" service1="true" service2="false" service3="false" />
+  <User username="test" password="dGVzdA==" service1="false" service2="false" service3="false" />
+  <User username="test1" password="" service1="false" service2="false" service3="false" />
+  <User username="test12" password="aGk=" service1="false" service2="false" service3="false" />
+  <User username="darshan" password="aGFyaQ==" service1="false" service2="false" service3="false" />
+  <User username="darshanhari" password="MTkxMg==" service1="true" service2="true" service3="false" />
+</Users>

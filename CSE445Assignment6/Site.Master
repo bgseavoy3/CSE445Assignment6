@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="Site.master.cs"
+    Inherits="CSE445Assignment6.SiteMaster" %>
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title><%: Page.Title %> – My ASP.NET Application</title>
+
+  <asp:PlaceHolder runat="server">
+    <%: Scripts.Render("~/bundles/modernizr") %>
+  </asp:PlaceHolder>
+  <webopt:BundleReference runat="server" Path="~/Content/css" />
+  <link href="~/favicon.ico" rel="shortcut icon" />
+</head>
+<body>
+  <form runat="server">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" runat="server" href="~/">My ASP.NET App</a>
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse">
+          <ul class="navbar-nav me-auto">
+            <li class="nav-item"><a class="nav-link" runat="server" href="~/">Home</a></li>
+            <li class="nav-item"><a class="nav-link" runat="server" href="~/About.aspx">About</a></li>
+            <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact.aspx">Contact</a></li>
+            <li class="nav-item"><a class="nav-link" runat="server" href="Logout.aspx">Log Out</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container body-content">
+      <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+      <hr />
+      <footer>
+        &copy; <%: DateTime.Now.Year %> – My ASP.NET Application
+      </footer>
+    </div>
+  </form>
+  <asp:PlaceHolder runat="server">
+    <%: Scripts.Render("~/Scripts/bootstrap.js") %>
+  </asp:PlaceHolder>
+</body>
+</html>

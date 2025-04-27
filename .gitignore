@@ -1,0 +1,15 @@
+# Ignore Visual Studio temp files
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# NuGet packages folder
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
