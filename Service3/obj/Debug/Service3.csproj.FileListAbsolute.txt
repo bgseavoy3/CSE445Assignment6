@@ -1,0 +1,14 @@
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\bin\Service3.dll.config
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\bin\Service3.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\bin\Service3.pdb
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\obj\Debug\Service3.csproj.AssemblyReference.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\obj\Debug\Service3.csproj.CoreCompileInputs.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\obj\Debug\Service3.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service3\obj\Debug\Service3.pdb
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\bin\Service3.dll.config
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\bin\Service3.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\bin\Service3.pdb
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\obj\Debug\Service3.csproj.AssemblyReference.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\obj\Debug\Service3.csproj.CoreCompileInputs.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\obj\Debug\Service3.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service3\obj\Debug\Service3.pdb

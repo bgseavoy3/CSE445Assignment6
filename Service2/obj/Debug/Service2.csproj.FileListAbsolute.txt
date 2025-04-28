@@ -1,0 +1,60 @@
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Service2.dll.config
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Service2.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Service2.pdb
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Buffers.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.IO.Pipelines.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Memory.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Numerics.Vectors.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Text.Encodings.Web.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Text.Json.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.ValueTuple.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Buffers.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.IO.Pipelines.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Memory.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Numerics.Vectors.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Text.Encodings.Web.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Text.Json.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\System.ValueTuple.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\obj\Debug\Service2.csproj.AssemblyReference.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\obj\Debug\Service2.csproj.CoreCompileInputs.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\obj\Debug\Service2.csproj.Up2Date
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\obj\Debug\Service2.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\obj\Debug\Service2.pdb
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Newtonsoft.Json.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL\Service2\bin\Newtonsoft.Json.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Service2.dll.config
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Service2.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Service2.pdb
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Newtonsoft.Json.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Buffers.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.IO.Pipelines.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Memory.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Numerics.Vectors.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Text.Encodings.Web.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Text.Json.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.ValueTuple.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\Newtonsoft.Json.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Buffers.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.IO.Pipelines.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Memory.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Numerics.Vectors.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Text.Encodings.Web.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Text.Json.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\bin\System.ValueTuple.xml
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\obj\Debug\Service2.csproj.AssemblyReference.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\obj\Debug\Service2.csproj.CoreCompileInputs.cache
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\obj\Debug\Service2.csproj.Up2Date
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\obj\Debug\Service2.dll
+C:\Users\Braden Seavoy\source\repos\CSE445Assignment4FINAL - Copy\Service2\obj\Debug\Service2.pdb
